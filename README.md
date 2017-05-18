@@ -10,11 +10,10 @@ Commit 3
 
 Sections:
 REST
-
 Persistent Data
-
 React JS
-
 Authentication
-
 Testing
+
+References:
+https://spring.io/guides/tutorials/react-and-spring-data-rest/
